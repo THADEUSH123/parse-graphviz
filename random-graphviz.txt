@@ -1,0 +1,32 @@
+graph area2 {
+// StJohnSt West to East
+_12L_775_lum -- _12L_695_lum -- _11L_115_lum -- _11L_129_lum -- _11L_402_lum
+
+// TheAlameda/SantaClaraSt West to East
+_12K_438_sig -- _12K_31_lum -- _12K_644_sig --_12L_8 -- _12L_452 -- _12L_73
+_12L_73 -- _12L_155 -- _12L_816 --_12L_842 -- _12L_75 -- _12L_198
+_12L_198 -- _12L_197 -- _11L_1094 -- _11L_746 -- _11M_799 -- _11L18 -- _11L_263 -- _11L_22 -- CHALL_NW
+_11L_1087 -- _11L_1094
+_11L_38 -- _11L_227
+
+// PostSt West to East
+_12L_203_lum -- _12L_453J_lum -- _12L_454J_lum -- _12L_6_lum -- VTA_FIRSTST_OPP_POSTST
+
+// SanFernando West to East
+// need a solution West of AlmadenBlvd
+_12L_206_sig -- _12L_56_lum -- _12L_447_sig -- _12L_1112_lum -- _11L_922_lum -- _12M_805_lum
+_12M_805_lum -- _11M_1072_sig -- _11M_794_sig -- _11M_243_lum -- _11M_903_lum -- _11M_239_lum
+_11M_239_lum -- _11M_904_lum -- _11M_872_sig -- _11M_100_sig
+_12L_206_sig -- _12L_394_sig
+_11L104_sig -- _12L_447_sig
+_11M_1072_sig -- _11M_769_sig
+_11M_794_sig -- _11M_795_sig
+
+// ParkSt/PaseoSanAntonio West to East
+_12L_662Y_sig -- _12LA_215_lum -- _12L_212_sigplus -- _12L_305_lum -- _12L_418_vert
+_12L_418_vert -- FAIR_NW -- PASEO_ROOF -- REP_SE -- _11M_177Y_sig
+_12L_212_sigplus -- _12L_82_sig
+
+// WozWay/BalbachSt West to East
+_12L_704_lum -- _12L_711AB_lum -- _12L_607_vert -- _12L_535_sig
+}

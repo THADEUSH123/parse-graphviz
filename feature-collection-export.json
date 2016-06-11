@@ -1,0 +1,2156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8826062,
+                    37.33731085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "cmo_obj_id": "1347",
+                "longitude": "-121.8826062",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33731085",
+                "pole_id": "11M239",
+                "desc_addr": "E SAN FERNANDO ST & S 7TH ST SEC",
+                "luminaire": "S4H-250",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8926968,
+                    37.3308277
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-241W112LED4K-T-R3M",
+                "cmo_obj_id": "2573",
+                "longitude": "-121.8926968",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.3308277",
+                "pole_id": "12L212",
+                "desc_addr": "PARK AVE & S ALMADEN BLVD NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8872091,
+                    37.33765169
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-180W80LED4K-T-R3M",
+                "cmo_obj_id": "25386",
+                "longitude": "-121.8872091",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33765169",
+                "pole_id": "11L22",
+                "desc_addr": "E SANTA CLARA ST & S 4TH ST SEC",
+                "luminaire": "S4H-250",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8957352,
+                    37.33410384
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "32558",
+                "longitude": "-121.8957352",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33410384",
+                "pole_id": "12L197",
+                "desc_addr": "N ALMADEN BLVD WS 100' NO W SANTA CLARA ST",
+                "luminaire": "S4H-400",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8951956,
+                    37.33373866
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "25443",
+                "longitude": "-121.8951956",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33373866",
+                "pole_id": "12L198",
+                "desc_addr": "S ALAMADEN BLVD WS 25' SO W SANTA CLARA ST",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.9014248,
+                        37.33209459
+                    ],
+                    [
+                        -121.9004319,
+                        37.33214702
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8951956,
+                        37.33373866
+                    ],
+                    [
+                        -121.8957352,
+                        37.33410384
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8967948,
+                    37.33542782
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "61558",
+                "longitude": "-121.8967948",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "",
+                "latitude": "37.33542782",
+                "pole_id": "12L695",
+                "desc_addr": "ALMADEN BL & SANTA TERESA ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": ""
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.899146,
+                        37.33197966
+                    ],
+                    [
+                        -121.8975334,
+                        37.33305558
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.906458,
+                        37.33161243
+                    ],
+                    [
+                        -121.9040653,
+                        37.33194235
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8888264,
+                    37.33437121
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-2-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "1315",
+                "longitude": "-121.8888264",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33437121",
+                "pole_id": "11L922",
+                "desc_addr": "E SAN FERNANDO ST 1 OPP",
+                "luminaire": "S4H-310",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8950273,
+                    37.32937011
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "2645",
+                "longitude": "-121.8950273",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.32937011",
+                "pole_id": "12L662Y",
+                "desc_addr": "PARK AVE & WOZ WY SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8926733,
+                        37.33504666
+                    ],
+                    [
+                        -121.8903631,
+                        37.33614824
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8940604,
+                    37.33323597
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "32181",
+                "longitude": "-121.8940604",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33323597",
+                "pole_id": "12L203",
+                "desc_addr": "S ALMADEN BLVD & POST ST SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8938318,
+                    37.33218629
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "2571",
+                "longitude": "-121.8938318",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33218629",
+                "pole_id": "12L206",
+                "desc_addr": "W SAN FERNANDO ST & S ALMADEN BLVD NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8922767,
+                    37.33547563
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "25399",
+                "longitude": "-121.8922767",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33547563",
+                "pole_id": "11L38",
+                "desc_addr": "W SANTA CLARA ST & N MARKET ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.9004319,
+                        37.33214702
+                    ],
+                    [
+                        -121.899146,
+                        37.33197966
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8955103,
+                    37.33647995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "29314",
+                "longitude": "-121.8955103",
+                "pole_use": "UNKNOWN",
+                "pole_construction": "GALVANIZED",
+                "latitude": "37.33647995",
+                "pole_id": "11L129",
+                "desc_addr": "W ST JOHN STREET & TERRAINE ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8926968,
+                        37.3308277
+                    ],
+                    [
+                        -121.892567,
+                        37.33060323
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.902363,
+                    37.33203804
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "25564",
+                "longitude": "-121.902363",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33203804",
+                "pole_id": "12L452",
+                "desc_addr": "THE ALAMEDA & CAHILL ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Pending",
+                "led_project": "BRT",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.893992,
+                    37.33466486
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-241W112LED4K-T-R3M",
+                "cmo_obj_id": "25365",
+                "longitude": "-121.893992",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33466486",
+                "pole_id": "11L1087",
+                "desc_addr": "W SANTA CLARA ST & N ALMADEN AVE NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8924606,
+                        37.33402933
+                    ],
+                    [
+                        -121.8915281,
+                        37.33433436
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9040653,
+                    37.33194235
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "2678",
+                "longitude": "-121.9040653",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33194235",
+                "pole_id": "12L8",
+                "desc_addr": "THE ALAMEDA & STOCKTON AVE NWC",
+                "luminaire": "S-L-135",
+                "led_status": "Completed",
+                "led_project": "The Alameda Phase 1",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.893992,
+                        37.33466486
+                    ],
+                    [
+                        -121.8926733,
+                        37.33504666
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8885203,
+                        37.33702405
+                    ],
+                    [
+                        -121.8886316,
+                        37.33724915
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8975334,
+                        37.33305558
+                    ],
+                    [
+                        -121.8966051,
+                        37.33344632
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8915281,
+                    37.33433436
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "29597",
+                "longitude": "-121.8915281",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "GALVANIZED",
+                "latitude": "37.33433436",
+                "pole_id": "12L6",
+                "desc_addr": "POST ST SS 30' WO S MARKET ST",
+                "luminaire": "S4H-250",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8870822,
+                    37.33547701
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "1394",
+                "longitude": "-121.8870822",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33547701",
+                "pole_id": "11M769",
+                "desc_addr": "S 3RD ST & E SAN FERNANDO ST NEC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8826062,
+                        37.33731085
+                    ],
+                    [
+                        -121.8817104,
+                        37.33776352
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.9092561,
+                        37.33171019
+                    ],
+                    [
+                        -121.906458,
+                        37.33161243
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8955103,
+                        37.33647995
+                    ],
+                    [
+                        -121.8944625,
+                        37.33698501
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8860271,
+                    37.33564909
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "1401",
+                "longitude": "-121.8860271",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33564909",
+                "pole_id": "11M795",
+                "desc_addr": "S 4TH ST & E SAN FERNANDO ST SWC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8862373,
+                    37.3358403
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "1400",
+                "longitude": "-121.8862373",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.3358403",
+                "pole_id": "11M794",
+                "desc_addr": "E SAN FERNANDO ST & S 4TH ST NEC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.906458,
+                    37.33161243
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "2509",
+                "longitude": "-121.906458",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "GALVANIZED",
+                "latitude": "37.33161243",
+                "pole_id": "12K644",
+                "desc_addr": "THE ALAMEDA & SUNOL ST SEC",
+                "luminaire": "S4H-150",
+                "led_status": "Completed",
+                "led_project": "The Alameda Phase 1",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8905226,
+                    37.33367317
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "2632",
+                "longitude": "-121.8905226",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33367317",
+                "pole_id": "12L447",
+                "desc_addr": "W SAN FERNANDO ST & S MARKET ST SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.889209,
+                    37.32630837
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "32484",
+                "longitude": "-121.889209",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.32630837",
+                "pole_id": "12L607",
+                "desc_addr": "S ALMADEN BLVD 507",
+                "luminaire": "S4H-400",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8862373,
+                        37.3358403
+                    ],
+                    [
+                        -121.8860271,
+                        37.33564909
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8944625,
+                    37.33698501
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "1280",
+                "longitude": "-121.8944625",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33698501",
+                "pole_id": "11L402",
+                "desc_addr": "W ST JOHN ST & N SAN PEDRO ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "St John Multimodal Improvements",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8879468,
+                    37.33477044
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "2972",
+                "longitude": "-121.8879468",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33477044",
+                "pole_id": "12M805",
+                "desc_addr": "E SAN FERNANDO ST & S 2ND ST SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Maintenance",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8806663,
+                        37.33845543
+                    ],
+                    [
+                        -121.8796936,
+                        37.33874944
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8885203,
+                    37.33702405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "25376",
+                "longitude": "-121.8885203",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33702405",
+                "pole_id": "11L18",
+                "desc_addr": "E SANTA CLARA ST & S 3RD ST SWC",
+                "luminaire": "S4H-310",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8926968,
+                        37.3308277
+                    ],
+                    [
+                        -121.8907299,
+                        37.3318946
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8817104,
+                        37.33776352
+                    ],
+                    [
+                        -121.8806663,
+                        37.33845543
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8868336,
+                        37.33532276
+                    ],
+                    [
+                        -121.8862373,
+                        37.3358403
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8967651,
+                        37.33591191
+                    ],
+                    [
+                        -121.8955103,
+                        37.33647995
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8904174,
+                    37.32789815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "32376",
+                "longitude": "-121.8904174",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.32789815",
+                "pole_id": "12L535",
+                "desc_addr": "S ALMADEN BLVD OPP PKNG ENTRANCE",
+                "luminaire": "S4H-400",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8886316,
+                        37.33724915
+                    ],
+                    [
+                        -121.8872091,
+                        37.33765169
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.894052,
+                        37.33017735
+                    ],
+                    [
+                        -121.8926968,
+                        37.3308277
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8940604,
+                        37.33323597
+                    ],
+                    [
+                        -121.8936872,
+                        37.33343943
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.9119243,
+                        37.33170078
+                    ],
+                    [
+                        -121.9092561,
+                        37.33171019
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8907299,
+                    37.3318946
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "2585",
+                "longitude": "-121.8907299",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.3318946",
+                "pole_id": "12L305",
+                "desc_addr": "PARK AVE NS 200' WO S MARKET ST",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 1",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8975334,
+                    37.33305558
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "61351",
+                "longitude": "-121.8975334",
+                "pole_use": "UNKNOWN",
+                "pole_construction": "STEEL",
+                "latitude": "37.33305558",
+                "pole_id": "12L842",
+                "desc_addr": "W SANTA CLARA ST NS & GUADALUPE RIVER PARK PATHWAY",
+                "luminaire": "S4H-250",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8846301,
+                        37.33636218
+                    ],
+                    [
+                        -121.88388,
+                        37.33672826
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.889209,
+                        37.32630837
+                    ],
+                    [
+                        -121.8904174,
+                        37.32789815
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8921942,
+                        37.33290646
+                    ],
+                    [
+                        -121.8905226,
+                        37.33367317
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8886316,
+                    37.33724915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "25390",
+                "longitude": "-121.8886316",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33724915",
+                "pole_id": "11L263",
+                "desc_addr": "S 3RD ST & E SANTA CLARA ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8806663,
+                    37.33845543
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "cmo_obj_id": "1417",
+                "longitude": "-121.8806663",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33845543",
+                "pole_id": "11M872",
+                "desc_addr": "E SAN FERNANDO ST & S 9TH ST NEC",
+                "luminaire": "S-L-135",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8924606,
+                    37.33402933
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "32304",
+                "longitude": "-121.8924606",
+                "pole_use": "DISTRIBUTION",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33402933",
+                "pole_id": "12L454J",
+                "desc_addr": "POST ST SS 50' WO SAN PEDRO ST",
+                "luminaire": "S-L-55",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "4 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9004319,
+                    37.33214702
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "25455",
+                "longitude": "-121.9004319",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33214702",
+                "pole_id": "12L155",
+                "desc_addr": "W SANTA CLARA ST & S AUTUMNN ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Pending",
+                "led_project": "BRT",
+                "arm_length": "13 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8846301,
+                    37.33636218
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC7-24M-MV-NW-2-GY-LUCO-PD-WL @ 530mA",
+                "cmo_obj_id": "1351",
+                "longitude": "-121.8846301",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33636218",
+                "pole_id": "11M243",
+                "desc_addr": "E SAN FERNANDO ST & S 5TH ST SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8936872,
+                    37.33343943
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "32303",
+                "longitude": "-121.8936872",
+                "pole_use": "DISTRIBUTION",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33343943",
+                "pole_id": "12L453J",
+                "desc_addr": "POST ST 225",
+                "luminaire": "S-L-55",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8907299,
+                        37.3318946
+                    ],
+                    [
+                        -121.8891652,
+                        37.33238584
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8937091,
+                    37.33203308
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "2607",
+                "longitude": "-121.8937091",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33203308",
+                "pole_id": "12L394",
+                "desc_addr": "S ALMADEN BLVD & W SAN FERNANDO ST SWC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8967948,
+                        37.33542782
+                    ],
+                    [
+                        -121.8967651,
+                        37.33591191
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.902363,
+                        37.33203804
+                    ],
+                    [
+                        -121.9014248,
+                        37.33209459
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8879468,
+                        37.33477044
+                    ],
+                    [
+                        -121.8868336,
+                        37.33532276
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8796936,
+                    37.33874944
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "cmo_obj_id": "1320",
+                "longitude": "-121.8796936",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "GALVANIZED",
+                "latitude": "37.33874944",
+                "pole_id": "11M100",
+                "desc_addr": "S 10TH ST & E SAN FERNANDO ST SWC",
+                "luminaire": "S-L-180",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8921942,
+                    37.33290646
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-2-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "22251",
+                "longitude": "-121.8921942",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33290646",
+                "pole_id": "12L56",
+                "desc_addr": "W SAN FERNANDO ST NS 100' EO S ALMADEN AVE",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8903631,
+                    37.33614824
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "25419",
+                "longitude": "-121.8903631",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "STEEL",
+                "latitude": "37.33614824",
+                "pole_id": "11L746",
+                "desc_addr": "W SANTA CLARA ST & S 1ST ST SEC",
+                "luminaire": "S4H-150",
+                "led_status": "Pending",
+                "led_project": "BRT",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8891652,
+                    37.33238584
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "2623",
+                "longitude": "-121.8891652",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33238584",
+                "pole_id": "12L418",
+                "desc_addr": "S MARKET ST & PASEO DE SAN ANTONIO SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 1",
+                "arm_length": "6 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8926733,
+                    37.33504666
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "25560",
+                "longitude": "-121.8926733",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "",
+                "latitude": "37.33504666",
+                "pole_id": "11L1094",
+                "desc_addr": "SANTA CLARA ST & SAN PEDRO ST SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8817104,
+                    37.33776352
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "cmo_obj_id": "1423",
+                "longitude": "-121.8817104",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33776352",
+                "pole_id": "11M904",
+                "desc_addr": "E SAN FERNANDO ST & S 8TH ST SWC",
+                "luminaire": "S-L-180",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9119243,
+                    37.33170078
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "31790",
+                "longitude": "-121.9119243",
+                "pole_use": "UNKNOWN",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33170078",
+                "pole_id": "12K438",
+                "desc_addr": "THE ALAMEDA OPP HANCHETT AVE",
+                "luminaire": "S4H-150",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "POST TOP"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.88388,
+                    37.33672826
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "cmo_obj_id": "1422",
+                "longitude": "-121.88388",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33672826",
+                "pole_id": "11M903",
+                "desc_addr": "E SAN FERNANDO ST OPP S 6TH ST",
+                "luminaire": "S-L-180",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8922767,
+                        37.33547563
+                    ],
+                    [
+                        -121.8920327,
+                        37.33562885
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.9040653,
+                        37.33194235
+                    ],
+                    [
+                        -121.902363,
+                        37.33203804
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9092561,
+                    37.33171019
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "2462",
+                "longitude": "-121.9092561",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33171019",
+                "pole_id": "12K31",
+                "desc_addr": "THE ALAMEDA OPP ATLAS AVE",
+                "luminaire": "S-L-135",
+                "led_status": "Completed",
+                "led_project": "The Alameda Phase 1",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8862373,
+                        37.3358403
+                    ],
+                    [
+                        -121.8846301,
+                        37.33636218
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8966051,
+                        37.33344632
+                    ],
+                    [
+                        -121.8951956,
+                        37.33373866
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8957352,
+                        37.33410384
+                    ],
+                    [
+                        -121.8926733,
+                        37.33504666
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8967651,
+                    37.33591191
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "29248",
+                "longitude": "-121.8967651",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "GALVANIZED",
+                "latitude": "37.33591191",
+                "pole_id": "11L115",
+                "desc_addr": "W ST JOHN ST 25' EO N ALMADEN BLVD",
+                "luminaire": "S4H-250",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8938318,
+                        37.33218629
+                    ],
+                    [
+                        -121.8937091,
+                        37.33203308
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.894052,
+                    37.33017735
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "2696",
+                "longitude": "-121.894052",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33017735",
+                "pole_id": "12LA215",
+                "desc_addr": "PARK AVE NS 400' WO S ALMADEN BLVD",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8938318,
+                        37.33218629
+                    ],
+                    [
+                        -121.8921942,
+                        37.33290646
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8920327,
+                    37.33562885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "25387",
+                "longitude": "-121.8920327",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33562885",
+                "pole_id": "11L227",
+                "desc_addr": "N MARKET ST & W SANTA CLARA ST NEC",
+                "luminaire": "S4H-200",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8936872,
+                        37.33343943
+                    ],
+                    [
+                        -121.8924606,
+                        37.33402933
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.899146,
+                    37.33197966
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "61324",
+                "longitude": "-121.899146",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33197966",
+                "pole_id": "12L816",
+                "desc_addr": "W SANTA CLARA ST & DELMAS AVE SWC",
+                "luminaire": "S4H-310",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "8 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8958334,
+                        37.33937971
+                    ],
+                    [
+                        -121.8905226,
+                        37.33367317
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8950273,
+                        37.32937011
+                    ],
+                    [
+                        -121.894052,
+                        37.33017735
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.88388,
+                        37.33672826
+                    ],
+                    [
+                        -121.8826062,
+                        37.33731085
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9014248,
+                    37.33209459
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "25461",
+                "longitude": "-121.9014248",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33209459",
+                "pole_id": "12L73",
+                "desc_addr": "THE ALAMEDA & S MONTGOMERY ST NWC",
+                "luminaire": "S4H-400",
+                "led_status": "Pending",
+                "led_project": "BRT",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8966051,
+                    37.33344632
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-215W96LED4K-T-R3M",
+                "cmo_obj_id": "25463",
+                "longitude": "-121.8966051",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33344632",
+                "pole_id": "12L75",
+                "desc_addr": "W SANTA CLARA ST NS 30' EO HWY 87 OVERPASS",
+                "luminaire": "S4H-310",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8958334,
+                    37.33937971
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "29173",
+                "longitude": "-121.8958334",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33937971",
+                "pole_id": "11L104",
+                "desc_addr": "W JULIAN ST & N SAN PEDRO ST SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Future",
+                "led_project": "",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8888264,
+                        37.33437121
+                    ],
+                    [
+                        -121.8879468,
+                        37.33477044
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8868336,
+                    37.33532276
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "cmo_obj_id": "1322",
+                "longitude": "-121.8868336",
+                "pole_use": "ST LIGHT & SIGNAL",
+                "pole_construction": "UNKNOWN",
+                "latitude": "37.33532276",
+                "pole_id": "11M1072",
+                "desc_addr": "E SAN FERNANDO ST & S 3RD ST SEC",
+                "luminaire": "S4H-400",
+                "led_status": "Completed",
+                "led_project": "Cahil to 10th",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.892567,
+                    37.33060323
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "RFL-241W112LED4K-T-R3M",
+                "cmo_obj_id": "2682",
+                "longitude": "-121.892567",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.33060323",
+                "pole_id": "12L82",
+                "desc_addr": "S ALMADEN BLVD & PARK AVE SWC",
+                "luminaire": "S4H-250",
+                "led_status": "Planned",
+                "led_project": "Smart Pole Phase 2",
+                "arm_length": "10 FT OR 12 FT"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8868336,
+                        37.33532276
+                    ],
+                    [
+                        -121.8870822,
+                        37.33547701
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8977442,
+                    37.335237
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "led_type": "",
+                "cmo_obj_id": "2670",
+                "longitude": "-121.8977442",
+                "pole_use": "ST LIGHT ONLY",
+                "pole_construction": "STEEL",
+                "latitude": "37.335237",
+                "pole_id": "12L775",
+                "desc_addr": "W ST JOHN ST OPP N ALMADEN BLVD",
+                "luminaire": "S4H-400",
+                "led_status": "Planned",
+                "led_project": "St John Multimodal Improvements",
+                "arm_length": "OTHER"
+            }
+        },
+        {
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -121.8977442,
+                        37.335237
+                    ],
+                    [
+                        -121.8967948,
+                        37.33542782
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "use": "unknown"
+            }
+        }
+    ]
+}
