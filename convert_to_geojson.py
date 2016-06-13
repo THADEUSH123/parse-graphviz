@@ -17,34 +17,48 @@ def load_known_poles(name):
 
 
 def normalize_edge_name(edge_name):
-    """Normaize name based on naming convention in CSV file."""
+    """Normalize name based on naming convention in CSV file."""
     if not edge_name.startswith(('_',)):
         edge_name = edge_name.replace('_', '-')
     edge_name = edge_name.replace('_sigplus', '')
     edge_name = edge_name.replace('_vert', '')
     edge_name = edge_name.replace('_lum', '')
     edge_name = edge_name.replace('_sig', '')
+    edge_name = edge_name.replace('_either', '')
     edge_name = edge_name.replace('_', '')
     edge_name = edge_name.strip()
     return edge_name
 
+def mounting_style(edge_name):
+    if edge_name.endswith(('_sigplus', '_vert', '_lum', '_sig', '_either')):
+        return edge_name.rsplit('_', 1)[1]
+    return ''
 
 def create_feature(pole_index, name1, name2=None):
     """Create a geojson feature based on imported values."""
     if name2 is None:
+        props = pole_index[name1].copy()
+        props.update({ 'marker-size' : 'small',
+                       "marker-color": "#00f900", # spring green
+                       'marker-symbol' : 'circle-stroked',
+                       'name' : props['pole_id'] })
+        del props['pole_id']
         feature = Feature(
             geometry=Point(
-                (float(pole_index[name1]['longitude']),
-                 float(pole_index[name1]['latitude']))),
-            properties=pole_index[name1])
+                (float(props['longitude']),
+                 float(props['latitude']))),
+            properties=props)
     else:
+        line_name = pole_index[name1]['pole_id'] + '_' + pole_index[name2]['pole_id']
         feature = Feature(
             geometry=LineString(
                 [(float(pole_index[name1]['longitude']),
                  float(pole_index[name1]['latitude'])),
                  (float(pole_index[name2]['longitude']),
                  float(pole_index[name2]['latitude']))]),
-            properties={'use': 'unknown'})
+            properties={'use': 'unknown',
+                        'stroke' : '#fffb00',  # yellow
+                        'name' : line_name })
 
     return feature
 
@@ -64,7 +78,7 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output', help='Output file name')
     args = parser.parse_args()
 
-    poles_file_name = args.poles or 'core downtown pole export.csv'
+    poles_file_name = args.poles or 'downtown-pole-export-edited.csv'
     graphviz_file_name = args.graphviz or 'random-graphviz.txt'
     output_file_name = args.output or 'feature-collection-export.json'
 
@@ -79,16 +93,20 @@ if __name__ == '__main__':
         found_source = source in pole_index.keys()
         found_destination = destination in pole_index.keys()
         if found_source and found_destination:
+            pole_index[source]['mounting'] = mounting_style(edge.get_source())
+            pole_index[destination]['mounting'] = mounting_style(edge.get_destination())
             features[source + destination] = create_feature(
                                                 pole_index,
                                                 source,
                                                 destination)
-            features[source] = create_feature(pole_index, source)
-            features[destination] = create_feature(pole_index, destination)
+            if not source in features:
+                features[source] = create_feature(pole_index, source)
+            if not destination in features:
+                features[destination] = create_feature(pole_index, destination)
         else:
             if not found_source:
-                print('Counld not find {}'.format(source))
+                print('Could not find {}'.format(source))
             if not found_destination:
-                print('Counld not find {}'.format(destination))
+                print('Could not find {}'.format(destination))
 
     export_to_file(output_file_name, features.values())

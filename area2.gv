@@ -1,0 +1,159 @@
+graph area2 {
+
+// *** East to West ***
+
+// All for area3
+// JulianSt West to East
+// for area3: _11L_311_sig _11L_101_sig -- _11L95_sig  verify??
+// for area3: _11L_101_sig -- _11L100_sig
+// DevineSt West to East
+// StJamesSt West to East
+
+// StJohnSt West to East #area2
+// for area3:  _12L_269_lum -- _12L_261_lum
+_12L_695_lum -- _11L_115_lum -- _11L_129_lum -- _11L_402_lum 
+_11L_402_lum -- _11L_1143Y_vert -- _11L_714_sig -- _11L_808_sig -- _11L_360_sig -- _11L_362_sig
+_11L_1143Y_vert -- _11L_1143_sig
+_11L_360_sig -- _11L_361_sigplus
+_11L_362_sig -- _11L_363_sig
+// alt: check these from Fulcrum _11L_402_lum -- _11L_287 -- _11L_1144_sig
+
+// CarlysleSt West to East
+// TODO ***
+
+// TheAlameda/SantaClaraSt West to East #area2
+_12K_438_sig -- _12K_31_lum -- _12K_644_sig --_12L_8 -- _12L_452_lum -- _12L_73
+_12L_73 -- _12L_155 -- _12L_816 --_12L_842 -- _12L_75 -- _12L_198_lum
+_12L_198_lum -- _12L_197_NotreDame -- _11L_1094 -- _11L_746 -- _11M_779 -- _11L18 -- _11L_263 -- _11L_22 -- CHALL_WING_NW
+_12L_197_NotreDame -- _11L_1088
+_11L_1087 -- _11L_1094
+_11L_38 -- _11L_227_sig
+_11L_38 -- FOUND_SW -- PKPED_SE -- PKPED_NW -- _11L_402_lum
+
+// PostSt West to East #area2
+_12L_203_lum -- _12L_453J_lum -- _12L_454J_lum -- _12L_6_lum -- VTA_FIRSTST_OPP_POSTST
+_12L_454J_lum -- _11L_124_lum
+
+// SanFernandoSt West to East
+// West of AlmadenBlvd (verify ***)
+// TODO: verify me. working on a very poor part of Fulcrum here
+_12L_768_lum -- _12L_80_vert -- _12L_765_lum --  _12L_334_lum --_12L_962_sigplus -- _12L_764_vert
+_12L_764_vert -- _12L_875_vert -- _12L_782_lum -- _12L_781_lum -- _12L_206_sigplus
+// East of AlmadenBlvd (good)
+_12L_206_sigplus -- _12L_56_lum -- _12L_447_sig -- _12L_112_lum -- _11L_922_lum -- _12M_805_lum
+_12M_805_lum -- _11M_1072_sig -- _11M_794_sig -- _11M_243_lum -- _11M_903_lum -- _11M_239_lum
+_11M_239_lum -- _11M_904_lum -- _11M_872_sig -- _11M_100_sig
+_12L_206_sig -- _12L_394_sig
+_11L104_sig -- _12L_447_sig
+_11M_1072_sig -- _11M_769_sig
+_11M_794_sig -- _11M_795_sig
+_11M_243_lum -- CHALL_WING_SE -- CHALL_WING_NW
+
+// ParkSt/PaseoSanAntonio West to East #area2
+_12L_662Y_sig -- _12LA_215_lum -- _12L_212_sigplus -- _12L_305_lum -- _12L_418_vert
+_12L_418_vert -- FAIR_SE -- PASEO_ROOF -- REP_SE -- _11M_177Y_sig
+_12L_212_sigplus -- _12L_82_sig   
+
+// SanCarlosSt West to East #area2
+GPARK_P1003 -- CPA_E -- CC_N_CENT -- _12L_59_vert
+_12L_59_vert -- _12L_566_sig -- _12M_789_lum -- _12M_195_lum -- _12M_243_lum -- _12M_233_sig 
+_12M_789_lum -- _12M_1230
+
+// ViolaAve/SanSalvadorSt West to East #area2
+CC_SE -- _12M_251_lum -- _12M_86_either -- _12M_544_sig
+_12M_886_sig -- _12M_251_lum
+
+// WozWay/BalbachSt NorthWest to SouthEast #area2
+// Test:  _12L_662Y_sig -- _12L_47_vert -- CDISCO_WALK_NW
+// Test:  _12L_662Y_sig -- _12L_674_lum -- CDSICO_WALK_NW
+// Test: CDISCO_WALK_NW -- CPA_E
+GPARK_P1003 -- CDISCO_WALK_NW -- CDISCO_DUCKROOF -- _12L_704_lum
+_12L_704_lum -- _12L_711A_lum -- _12L_607_vert -- _12L_535_sig
+
+
+// *** North to South ***
+
+// CahillSt North to South
+// TODO: verify me
+_12L_452_lum -- _12LNN_3_vert -- _12LNN_4_vert -- _12L_768_lum
+_12LNN_3_vert -- _12LNN_44_lum
+
+// MontgomerySt North to South
+// TODO: verify me
+_12L_452_lum -- _12L_339_lum -- _12LNN_44_lum -- _12L_80_vert
+
+// AutumnSt North to South
+// TODO: verify me
+// area3: _11L_309_sig -- _12L_798_lum -- _12L_261_lum
+_12L_261_lum -- _12L_266_lum -- _12L_118_sigplus
+_12L_118_sigplus  -- /* AutumnAtLightRail_sig -- */ _12L_804_sig -- _12L_334_lum
+_12L_118_sigplus -- _12L_155
+ 
+// DelmasAve North to South
+// TODO: verify
+_12L_962_sigplus -- _12L_967_lum -- _12L_816_lum
+
+// AlmadenBlvd North to South
+_11L100_sig -- _12L_775_lum -- _12L_695_lum -- _12L_773_lum -- _12L_197_AlmadenBlvd_lum -- _12L_198_lum
+_12L_198_lum -- _12L_203_lum -- _12L_394_sig -- _12L_82_sig -- _12L_61Y_sig -- _12L_535_sig -- _12L_607_sig
+_12L_82_sig -- CPA_E
+_12L_535_sig -- CC_SW -- CC_N_CENT -- CC_SE
+
+// NotreDameAve North to South
+// TODO: ***
+
+// Terraine/AlmadenAve North to South
+// TODO: ***
+
+// SanPedroSt North to South #area2
+_11L_124_lum -- _12L_56_lum
+
+// MarketSt North to South
+_11L_1143_sig -- _11L_227_sig -- _11L_104_sig -- _12L_189_lum -- _12L_418_lum -- _12L_251_lum -- _12L_59_vert
+_11L_104_sig -- _12L_550_lum -- _12L_1029_lum -- _12L_305_lum
+_12L_550_lum -- TECH_NE
+_12L_59_vert -- CC_SE -- _12M_1134_sig -- _12M_1042_lum -- _12M_412_sig
+_12L_59_vert -- _12M_886_sig -- _12M_1134_sig
+
+// 1stSt North to South #area2
+FAIR_NE -- FAIR_SE
+_12M_42_sigplus -- _12M_1154_vert -- _12M_412_sig
+
+// 2ndSt North to South #area2
+_12M_1230 -- PKSEC_W -- REP_SE
+
+// 3rdSt North to South #area2
+_11L_361_sigplus -- _11L_263_sig -- _11M_769_sig -- _12M767_sigplus -- _12M_232_sig -- _12M_195_lum
+
+// 4thSt North to South #area2
+_11L_363_sig -- _11L_120_sig -- _11M_795_sig -- _11M_177Y_sig -- _12M_233_sig -- _12M_544_sig
+_11L_363_sig -- CHALL_WING_NW -- _11L_120_sig
+// for #area3
+// _11L_580_vert -- _11L_572_sig -- _11L_363_sig
+
+// all these will be done in area3
+// 5thSt North to South
+// it's a hot mess. wait till area3
+// 6thSt North to South
+// 7thSt North to South
+// 8thSt North to South
+// 9thSt North to South
+// 10thSt North to South
+// for area3: _11M_100_sig -- _11M_258_sig
+
+}
+
+/*
+gv2geojson
+
+remove comments
+for names beginning with _, remove any trailing _lum, _sig, _sigplus, or _vert, remove other underbars
+look up resulting names in city pole database
+create geojson marker (small green halo with label)
+
+for names beginning with [A-Z] convert underbars to hyphens
+look up resulting names (currently in 
+create geojson marker
+
+for each linkage between two nodes, create a geojson line (1pt white) in a separate layer
+*/
