@@ -6,7 +6,6 @@ from pydot import graph_from_dot_file
 from csv import DictReader
 from geojson import Feature, Point, LineString, FeatureCollection, dumps
 from argparse import ArgumentParser
-import string
 
 
 def load_known_poles(name):
@@ -30,18 +29,20 @@ def normalize_edge_name(edge_name):
     return edge_name
 
 def mounting_style(edge_name):
+    """Return the type of pole based on the type of pole specified."""
     if edge_name.endswith(('_sigplus', '_vert', '_lum', '_sig', '_either')):
         return edge_name.rsplit('_', 1)[1]
     return ''
 
-def create_feature(pole_index, name1, name2=None):
+
+def create_feature(pole_index, name1, name2=None, *additional_properties):
     """Create a geojson feature based on imported values."""
     if name2 is None:
         props = pole_index[name1].copy()
-        props.update({ 'marker-size' : 'small',
-                       "marker-color": "#00f900", # spring green
-                       'marker-symbol' : 'circle-stroked',
-                       'name' : props['pole_id'] })
+        props.update({'marker-size': 'small',
+                      'marker-color': '#00f900',  # spring green
+                      'marker-symbol': 'circle-stroked',
+                      'name': props['pole_id']})
         del props['pole_id']
         feature = Feature(
             geometry=Point(
@@ -57,8 +58,8 @@ def create_feature(pole_index, name1, name2=None):
                  (float(pole_index[name2]['longitude']),
                  float(pole_index[name2]['latitude']))]),
             properties={'use': 'unknown',
-                        'stroke' : '#fffb00',  # yellow
-                        'name' : line_name })
+                        'stroke': '#fffb00',  # yellow
+                        'name': line_name})
 
     return feature
 
@@ -99,9 +100,9 @@ if __name__ == '__main__':
                                                 pole_index,
                                                 source,
                                                 destination)
-            if not source in features:
+            if source not in features:
                 features[source] = create_feature(pole_index, source)
-            if not destination in features:
+            if destination not in features:
                 features[destination] = create_feature(pole_index, destination)
         else:
             if not found_source:

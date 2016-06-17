@@ -12,12 +12,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1347",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8826062",
+                "name": "11M239",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33731085",
-                "pole_id": "11M239",
                 "desc_addr": "E SAN FERNANDO ST & S 7TH ST SEC",
                 "luminaire": "S4H-250",
                 "led_status": "Completed",
@@ -36,12 +40,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-241W112LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2573",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sigplus",
+                "marker-size": "small",
                 "longitude": "-121.8926968",
+                "name": "12L212",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.3308277",
-                "pole_id": "12L212",
                 "desc_addr": "PARK AVE & S ALMADEN BLVD NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -60,12 +68,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-180W80LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25386",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8872091",
+                "name": "11L22",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33765169",
-                "pole_id": "11L22",
                 "desc_addr": "E SANTA CLARA ST & S 4TH ST SEC",
                 "luminaire": "S4H-250",
                 "led_status": "Planned",
@@ -84,12 +96,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "32558",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8957352",
+                "name": "12L197",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33410384",
-                "pole_id": "12L197",
                 "desc_addr": "N ALMADEN BLVD WS 100' NO W SANTA CLARA ST",
                 "luminaire": "S4H-400",
                 "led_status": "Future",
@@ -108,12 +124,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25443",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8951956",
+                "name": "12L198",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33373866",
-                "pole_id": "12L198",
                 "desc_addr": "S ALAMADEN BLVD WS 25' SO W SANTA CLARA ST",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -137,7 +157,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L73_12L155"
             }
         },
         {
@@ -156,7 +178,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L198_12L197"
             }
         },
         {
@@ -170,12 +194,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "61558",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8967948",
+                "name": "12L695",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "",
                 "latitude": "37.33542782",
-                "pole_id": "12L695",
                 "desc_addr": "ALMADEN BL & SANTA TERESA ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Future",
@@ -199,7 +227,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L816_12L842"
             }
         },
         {
@@ -218,7 +248,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12K644_12L8"
             }
         },
         {
@@ -232,12 +264,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-2-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1315",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8888264",
+                "name": "11L922",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33437121",
-                "pole_id": "11L922",
                 "desc_addr": "E SAN FERNANDO ST 1 OPP",
                 "luminaire": "S4H-310",
                 "led_status": "Completed",
@@ -256,12 +292,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2645",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8950273",
+                "name": "12L662Y",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.32937011",
-                "pole_id": "12L662Y",
                 "desc_addr": "PARK AVE & WOZ WY SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -285,7 +325,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L1094_11L746"
             }
         },
         {
@@ -299,12 +341,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "32181",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8940604",
+                "name": "12L203",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33323597",
-                "pole_id": "12L203",
                 "desc_addr": "S ALMADEN BLVD & POST ST SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Future",
@@ -323,12 +369,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2571",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8938318",
+                "name": "12L206",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33218629",
-                "pole_id": "12L206",
                 "desc_addr": "W SAN FERNANDO ST & S ALMADEN BLVD NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -347,12 +397,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25399",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8922767",
+                "name": "11L38",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33547563",
-                "pole_id": "11L38",
                 "desc_addr": "W SANTA CLARA ST & N MARKET ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -376,7 +430,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L155_12L816"
             }
         },
         {
@@ -390,12 +446,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "29314",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8955103",
+                "name": "11L129",
                 "pole_use": "UNKNOWN",
                 "pole_construction": "GALVANIZED",
                 "latitude": "37.33647995",
-                "pole_id": "11L129",
                 "desc_addr": "W ST JOHN STREET & TERRAINE ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Future",
@@ -419,7 +479,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L212_12L82"
             }
         },
         {
@@ -433,12 +495,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25564",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.902363",
+                "name": "12L452",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33203804",
-                "pole_id": "12L452",
                 "desc_addr": "THE ALAMEDA & CAHILL ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Pending",
@@ -457,12 +523,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-241W112LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25365",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.893992",
+                "name": "11L1087",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33466486",
-                "pole_id": "11L1087",
                 "desc_addr": "W SANTA CLARA ST & N ALMADEN AVE NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -486,7 +556,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L454J_12L6"
             }
         },
         {
@@ -500,12 +572,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2678",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.9040653",
+                "name": "12L8",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33194235",
-                "pole_id": "12L8",
                 "desc_addr": "THE ALAMEDA & STOCKTON AVE NWC",
                 "luminaire": "S-L-135",
                 "led_status": "Completed",
@@ -529,7 +605,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L1087_11L1094"
             }
         },
         {
@@ -548,7 +626,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L18_11L263"
             }
         },
         {
@@ -567,7 +647,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L842_12L75"
             }
         },
         {
@@ -581,12 +663,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "29597",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8915281",
+                "name": "12L6",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "GALVANIZED",
                 "latitude": "37.33433436",
-                "pole_id": "12L6",
                 "desc_addr": "POST ST SS 30' WO S MARKET ST",
                 "luminaire": "S4H-250",
                 "led_status": "Future",
@@ -605,12 +691,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1394",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8870822",
+                "name": "11M769",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33547701",
-                "pole_id": "11M769",
                 "desc_addr": "S 3RD ST & E SAN FERNANDO ST NEC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -634,7 +724,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M239_11M904"
             }
         },
         {
@@ -653,7 +745,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12K31_12K644"
             }
         },
         {
@@ -672,7 +766,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L129_11L402"
             }
         },
         {
@@ -686,12 +782,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1401",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8860271",
+                "name": "11M795",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33564909",
-                "pole_id": "11M795",
                 "desc_addr": "S 4TH ST & E SAN FERNANDO ST SWC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -710,12 +810,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1400",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8862373",
+                "name": "11M794",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.3358403",
-                "pole_id": "11M794",
                 "desc_addr": "E SAN FERNANDO ST & S 4TH ST NEC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -734,12 +838,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2509",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.906458",
+                "name": "12K644",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "GALVANIZED",
                 "latitude": "37.33161243",
-                "pole_id": "12K644",
                 "desc_addr": "THE ALAMEDA & SUNOL ST SEC",
                 "luminaire": "S4H-150",
                 "led_status": "Completed",
@@ -758,12 +866,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2632",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8905226",
+                "name": "12L447",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33367317",
-                "pole_id": "12L447",
                 "desc_addr": "W SAN FERNANDO ST & S MARKET ST SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -782,12 +894,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "32484",
+                "marker-symbol": "circle-stroked",
+                "mounting": "vert",
+                "marker-size": "small",
                 "longitude": "-121.889209",
+                "name": "12L607",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.32630837",
-                "pole_id": "12L607",
                 "desc_addr": "S ALMADEN BLVD 507",
                 "luminaire": "S4H-400",
                 "led_status": "Future",
@@ -811,7 +927,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M794_11M795"
             }
         },
         {
@@ -825,12 +943,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1280",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8944625",
+                "name": "11L402",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33698501",
-                "pole_id": "11L402",
                 "desc_addr": "W ST JOHN ST & N SAN PEDRO ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -849,12 +971,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2972",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8879468",
+                "name": "12M805",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33477044",
-                "pole_id": "12M805",
                 "desc_addr": "E SAN FERNANDO ST & S 2ND ST SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -878,7 +1004,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M872_11M100"
             }
         },
         {
@@ -892,12 +1020,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25376",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8885203",
+                "name": "11L18",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33702405",
-                "pole_id": "11L18",
                 "desc_addr": "E SANTA CLARA ST & S 3RD ST SWC",
                 "luminaire": "S4H-310",
                 "led_status": "Planned",
@@ -921,7 +1053,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L212_12L305"
             }
         },
         {
@@ -940,7 +1074,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M904_11M872"
             }
         },
         {
@@ -959,7 +1095,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M1072_11M794"
             }
         },
         {
@@ -978,7 +1116,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L115_11L129"
             }
         },
         {
@@ -992,12 +1132,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "32376",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8904174",
+                "name": "12L535",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.32789815",
-                "pole_id": "12L535",
                 "desc_addr": "S ALMADEN BLVD OPP PKNG ENTRANCE",
                 "luminaire": "S4H-400",
                 "led_status": "Future",
@@ -1021,7 +1165,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L263_11L22"
             }
         },
         {
@@ -1040,7 +1186,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12LA215_12L212"
             }
         },
         {
@@ -1059,7 +1207,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L203_12L453J"
             }
         },
         {
@@ -1078,7 +1228,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12K438_12K31"
             }
         },
         {
@@ -1092,12 +1244,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2585",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8907299",
+                "name": "12L305",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.3318946",
-                "pole_id": "12L305",
                 "desc_addr": "PARK AVE NS 200' WO S MARKET ST",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -1116,12 +1272,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "61351",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8975334",
+                "name": "12L842",
                 "pole_use": "UNKNOWN",
                 "pole_construction": "STEEL",
                 "latitude": "37.33305558",
-                "pole_id": "12L842",
                 "desc_addr": "W SANTA CLARA ST NS & GUADALUPE RIVER PARK PATHWAY",
                 "luminaire": "S4H-250",
                 "led_status": "Future",
@@ -1145,7 +1305,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M243_11M903"
             }
         },
         {
@@ -1164,7 +1326,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L607_12L535"
             }
         },
         {
@@ -1183,7 +1347,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L56_12L447"
             }
         },
         {
@@ -1197,12 +1363,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25390",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8886316",
+                "name": "11L263",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33724915",
-                "pole_id": "11L263",
                 "desc_addr": "S 3RD ST & E SANTA CLARA ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -1221,12 +1391,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1417",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8806663",
+                "name": "11M872",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33845543",
-                "pole_id": "11M872",
                 "desc_addr": "E SAN FERNANDO ST & S 9TH ST NEC",
                 "luminaire": "S-L-135",
                 "led_status": "Completed",
@@ -1245,12 +1419,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "32304",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8924606",
+                "name": "12L454J",
                 "pole_use": "DISTRIBUTION",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33402933",
-                "pole_id": "12L454J",
                 "desc_addr": "POST ST SS 50' WO SAN PEDRO ST",
                 "luminaire": "S-L-55",
                 "led_status": "Future",
@@ -1269,12 +1447,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25455",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.9004319",
+                "name": "12L155",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33214702",
-                "pole_id": "12L155",
                 "desc_addr": "W SANTA CLARA ST & S AUTUMNN ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Pending",
@@ -1293,12 +1475,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC7-24M-MV-NW-2-GY-LUCO-PD-WL @ 530mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1351",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8846301",
+                "name": "11M243",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33636218",
-                "pole_id": "11M243",
                 "desc_addr": "E SAN FERNANDO ST & S 5TH ST SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -1317,12 +1503,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "32303",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8936872",
+                "name": "12L453J",
                 "pole_use": "DISTRIBUTION",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33343943",
-                "pole_id": "12L453J",
                 "desc_addr": "POST ST 225",
                 "luminaire": "S-L-55",
                 "led_status": "Future",
@@ -1346,7 +1536,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L305_12L418"
             }
         },
         {
@@ -1360,12 +1552,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2607",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8937091",
+                "name": "12L394",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33203308",
-                "pole_id": "12L394",
                 "desc_addr": "S ALMADEN BLVD & W SAN FERNANDO ST SWC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -1389,7 +1585,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L695_11L115"
             }
         },
         {
@@ -1408,7 +1606,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L452_12L73"
             }
         },
         {
@@ -1427,7 +1627,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12M805_11M1072"
             }
         },
         {
@@ -1441,12 +1643,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1320",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8796936",
+                "name": "11M100",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "GALVANIZED",
                 "latitude": "37.33874944",
-                "pole_id": "11M100",
                 "desc_addr": "S 10TH ST & E SAN FERNANDO ST SWC",
                 "luminaire": "S-L-180",
                 "led_status": "Completed",
@@ -1465,12 +1671,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-2-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "22251",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8921942",
+                "name": "12L56",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33290646",
-                "pole_id": "12L56",
                 "desc_addr": "W SAN FERNANDO ST NS 100' EO S ALMADEN AVE",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -1489,12 +1699,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25419",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8903631",
+                "name": "11L746",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "STEEL",
                 "latitude": "37.33614824",
-                "pole_id": "11L746",
                 "desc_addr": "W SANTA CLARA ST & S 1ST ST SEC",
                 "luminaire": "S4H-150",
                 "led_status": "Pending",
@@ -1513,12 +1727,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2623",
+                "marker-symbol": "circle-stroked",
+                "mounting": "vert",
+                "marker-size": "small",
                 "longitude": "-121.8891652",
+                "name": "12L418",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33238584",
-                "pole_id": "12L418",
                 "desc_addr": "S MARKET ST & PASEO DE SAN ANTONIO SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -1537,12 +1755,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25560",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8926733",
+                "name": "11L1094",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "",
                 "latitude": "37.33504666",
-                "pole_id": "11L1094",
                 "desc_addr": "SANTA CLARA ST & SAN PEDRO ST SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -1561,12 +1783,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1423",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8817104",
+                "name": "11M904",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33776352",
-                "pole_id": "11M904",
                 "desc_addr": "E SAN FERNANDO ST & S 8TH ST SWC",
                 "luminaire": "S-L-180",
                 "led_status": "Completed",
@@ -1585,12 +1811,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "31790",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.9119243",
+                "name": "12K438",
                 "pole_use": "UNKNOWN",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33170078",
-                "pole_id": "12K438",
                 "desc_addr": "THE ALAMEDA OPP HANCHETT AVE",
                 "luminaire": "S4H-150",
                 "led_status": "Future",
@@ -1609,12 +1839,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC7-24M-MV-NW-3-GY-LUCO-PD-WL @ 530mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1422",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.88388",
+                "name": "11M903",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33672826",
-                "pole_id": "11M903",
                 "desc_addr": "E SAN FERNANDO ST OPP S 6TH ST",
                 "luminaire": "S-L-180",
                 "led_status": "Completed",
@@ -1638,7 +1872,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L38_11L227"
             }
         },
         {
@@ -1657,7 +1893,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L8_12L452"
             }
         },
         {
@@ -1671,12 +1909,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2462",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.9092561",
+                "name": "12K31",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33171019",
-                "pole_id": "12K31",
                 "desc_addr": "THE ALAMEDA OPP ATLAS AVE",
                 "luminaire": "S-L-135",
                 "led_status": "Completed",
@@ -1700,7 +1942,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M794_11M243"
             }
         },
         {
@@ -1719,7 +1963,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L75_12L198"
             }
         },
         {
@@ -1738,7 +1984,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L197_11L1094"
             }
         },
         {
@@ -1752,12 +2000,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "29248",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8967651",
+                "name": "11L115",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "GALVANIZED",
                 "latitude": "37.33591191",
-                "pole_id": "11L115",
                 "desc_addr": "W ST JOHN ST 25' EO N ALMADEN BLVD",
                 "luminaire": "S4H-250",
                 "led_status": "Future",
@@ -1781,7 +2033,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L206_12L394"
             }
         },
         {
@@ -1795,12 +2049,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2696",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.894052",
+                "name": "12LA215",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33017735",
-                "pole_id": "12LA215",
                 "desc_addr": "PARK AVE NS 400' WO S ALMADEN BLVD",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -1824,7 +2082,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L206_12L56"
             }
         },
         {
@@ -1838,12 +2098,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25387",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8920327",
+                "name": "11L227",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33562885",
-                "pole_id": "11L227",
                 "desc_addr": "N MARKET ST & W SANTA CLARA ST NEC",
                 "luminaire": "S4H-200",
                 "led_status": "Planned",
@@ -1867,7 +2131,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L453J_12L454J"
             }
         },
         {
@@ -1881,12 +2147,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "61324",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.899146",
+                "name": "12L816",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33197966",
-                "pole_id": "12L816",
                 "desc_addr": "W SANTA CLARA ST & DELMAS AVE SWC",
                 "luminaire": "S4H-310",
                 "led_status": "Future",
@@ -1910,7 +2180,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L104_12L447"
             }
         },
         {
@@ -1929,7 +2201,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L662Y_12LA215"
             }
         },
         {
@@ -1948,7 +2222,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M903_11M239"
             }
         },
         {
@@ -1962,12 +2238,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25461",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.9014248",
+                "name": "12L73",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33209459",
-                "pole_id": "12L73",
                 "desc_addr": "THE ALAMEDA & S MONTGOMERY ST NWC",
                 "luminaire": "S4H-400",
                 "led_status": "Pending",
@@ -1986,12 +2266,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-215W96LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "25463",
+                "marker-symbol": "circle-stroked",
+                "mounting": "",
+                "marker-size": "small",
                 "longitude": "-121.8966051",
+                "name": "12L75",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33344632",
-                "pole_id": "12L75",
                 "desc_addr": "W SANTA CLARA ST NS 30' EO HWY 87 OVERPASS",
                 "luminaire": "S4H-310",
                 "led_status": "Planned",
@@ -2010,12 +2294,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "29173",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8958334",
+                "name": "11L104",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33937971",
-                "pole_id": "11L104",
                 "desc_addr": "W JULIAN ST & N SAN PEDRO ST SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Future",
@@ -2039,7 +2327,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11L922_12M805"
             }
         },
         {
@@ -2053,12 +2343,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "EC9-30M-MV-NW-3-GY-LUCO-PD-WL @ 700mA",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "1322",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.8868336",
+                "name": "11M1072",
                 "pole_use": "ST LIGHT & SIGNAL",
                 "pole_construction": "UNKNOWN",
                 "latitude": "37.33532276",
-                "pole_id": "11M1072",
                 "desc_addr": "E SAN FERNANDO ST & S 3RD ST SEC",
                 "luminaire": "S4H-400",
                 "led_status": "Completed",
@@ -2077,12 +2371,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "RFL-241W112LED4K-T-R3M",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2682",
+                "marker-symbol": "circle-stroked",
+                "mounting": "sig",
+                "marker-size": "small",
                 "longitude": "-121.892567",
+                "name": "12L82",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.33060323",
-                "pole_id": "12L82",
                 "desc_addr": "S ALMADEN BLVD & PARK AVE SWC",
                 "luminaire": "S4H-250",
                 "led_status": "Planned",
@@ -2106,7 +2404,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "11M1072_11M769"
             }
         },
         {
@@ -2120,12 +2420,16 @@
             "type": "Feature",
             "properties": {
                 "led_type": "",
+                "marker-color": "#00f900",
                 "cmo_obj_id": "2670",
+                "marker-symbol": "circle-stroked",
+                "mounting": "lum",
+                "marker-size": "small",
                 "longitude": "-121.8977442",
+                "name": "12L775",
                 "pole_use": "ST LIGHT ONLY",
                 "pole_construction": "STEEL",
                 "latitude": "37.335237",
-                "pole_id": "12L775",
                 "desc_addr": "W ST JOHN ST OPP N ALMADEN BLVD",
                 "luminaire": "S4H-400",
                 "led_status": "Planned",
@@ -2149,7 +2453,9 @@
             },
             "type": "Feature",
             "properties": {
-                "use": "unknown"
+                "use": "unknown",
+                "stroke": "#fffb00",
+                "name": "12L775_12L695"
             }
         }
     ]
